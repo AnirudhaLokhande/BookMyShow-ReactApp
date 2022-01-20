@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image": "https://c.ndtvimg.com/2021-05/k8rl2os8_akshay-kumar_625x300_02_May_21.jpg",
+        "title": "Bell Bottom",
+        "actor": "Akshay Kumar"
+    },
+    {
+        "id": 2,
+        "image": "https://c.ndtvimg.com/2021-05/k8rl2os8_akshay-kumar_625x300_02_May_21.jpg",
+        "title": "Shershah",
+        "actor": "Kiara"
+    },
+    {
+        "id": 3,
+        "image": "https://c.ndtvimg.com/2021-05/k8rl2os8_akshay-kumar_625x300_02_May_21.jpg",
+        "title": "Sultan",
+        "actor": "Salman Khan"
+    },
+    {
+        "id" : 4,
+        "image": "https://c.ndtvimg.com/2021-05/k8rl2os8_akshay-kumar_625x300_02_May_21.jpg",
+        "title": "Thappad",
+        "actor": "Tapsee Pannu"
+    }
+]
